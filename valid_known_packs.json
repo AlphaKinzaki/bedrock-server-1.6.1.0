@@ -1,0 +1,233 @@
+
+[
+	
+	{
+		"file_version" : 2
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/vanilla",
+		"uuid" : "0575c61f-a5da-4b7f-9961-ffda2908861e",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "E5nJZ3jUgCq6SfEAf2dhLG/Aj8HwzW08w2GmrCkDRW8=" ],
+		"path" : "behavior_packs/c327d8ec361650e07bc32a9c38debdb4383117c2.zip",
+		"uuid" : "8f8df511-8b24-34ac-8e2f-c865cec25457",
+		"version" : "0.0.2"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "resource_packs/chemistry",
+		"uuid" : "0fba4063-dba1-4281-9b89-ff9390653530",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "g1wmoMugDFqdcIEDMYzzIg5TGrsk2OcXs93hyTClBaA=" ],
+		"path" : "resource_packs/012eacb2824733b7e3d5e96878a1f7287642b200.zip",
+		"uuid" : "80a72efe-3866-3690-8f4d-7fc810ebb780",
+		"version" : "0.1.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "v23vnrj5pXoDx/tVsUymUJcCz18I1PmRfbCr02xYIOI=" ],
+		"path" : "resource_packs/a3dcdd43073c5d6eef731cad116fc8c66e86303e.zip",
+		"uuid" : "d7083bd9-1ff8-431f-8620-9b2cafe7ad1c",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "8DTnQvww2kYg4FEDzyqPVrlj9S0lYTGVjxz2lK8VY84=" ],
+		"path" : "resource_packs/0d42e858ed6eba93f05cd9fe50937a4621cb4cd5.zip",
+		"uuid" : "defd8dbf-dc91-4efb-8009-2b9765d631f7",
+		"version" : "0.0.2"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "w5jsm3DsQcCa7brmFNv0LTTxOW9dqSn0xTM90ISESqM=" ],
+		"path" : "resource_packs/12496b1a48d8967144a6356803620954c1a21c8d.zip",
+		"uuid" : "9e39c608-dd91-4123-91b3-41b82b6774ee",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "HWhGeDf1j0YhPn0i+dl9gjVkL3TL4Rzvunmu1jsK9jU=" ],
+		"path" : "resource_packs/a99d89e36add005f35c136f98f7d0dc6ee0aa601.zip",
+		"uuid" : "47ba6d1f-a16d-4a6c-bdb7-69ceae714545",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "a9aLt0RsUNbE5MF8UcGe5wtQDZJUIdOKmn8HA8b9sEo=" ],
+		"path" : "resource_packs/5bb3f9c4eb992478379597e85a1a7ab8a339669b.zip",
+		"uuid" : "33ddca84-e2f6-4e9b-8af1-b4526fe41e73",
+		"version" : "5.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "DDe2t+fY/9u6uo3j4tCNbuha60HA3YkZRGrEVjXIjd8=" ],
+		"path" : "resource_packs/13d2e551dd2c30dfd9e8fbe95ccc93e7a5cfa0d9.zip",
+		"uuid" : "d4a2b19e-573a-4435-9019-1300d48d2bae",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "zl9lxorofZADgOWSEDSkpldRijCIw/QE0yG1Wwtoq0Q=" ],
+		"path" : "resource_packs/4049137be15bf2490a5e98a42642cf353ae30489.zip",
+		"uuid" : "49cb00df-5b4a-4b7e-9d55-8f30d3fc7d1e",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "PjcZFDnSeAxqJtSDyX4uXMOhHNOGCGGIPasI1haHATU=" ],
+		"path" : "resource_packs/4b27ee99efd343ff6873c5aafd8fd2713b0a2df9.zip",
+		"uuid" : "422876df-6286-4172-8dbb-cbb84acc60e3",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "q18h0S+G9p0+SIbWRmwcS0J3mabgcfPenZZYYSOwO2U=" ],
+		"path" : "resource_packs/7d9f7f4af549ade4ce58c2d3fd0fc2fdd77000ad.zip",
+		"uuid" : "c7440e8c-a51a-4328-969a-6619f302fc26",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "7WHgScTblc5h/8ca/ajW6cKgofeTfJOPe3cp7sPUPv8=" ],
+		"path" : "resource_packs/afad03f2b3ef791640bebdd35729111d23bcc6a4.zip",
+		"uuid" : "5cdd7742-48e7-4f40-abfa-c33eb0fba5d6",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "YdK7lk1Iq1SS8+AFunpD6KH6Tu0Gg1nBGoELA5iafu0=" ],
+		"path" : "resource_packs/c2163c9a9bb7ac6294b466502eceb690cc1d4e10.zip",
+		"uuid" : "d6ec6102-fdb4-4879-a18a-3ee81a165dcf",
+		"version" : "2.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "KCbhV/aXXf91sgcvOYyXtRxemkkRTVUIh+JjFA1ZKYA=" ],
+		"path" : "resource_packs/d99babdf5e85789858801f663083a06f324ea40a.zip",
+		"uuid" : "2118cf8c-3d67-11e7-a919-92ebcb67fe33",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "uC4G0lQ9YGsGXIDsvPhTXkmlijOZOz2vpDVwnHkVyT0=" ],
+		"path" : "resource_packs/e10df4a89d25eaacf538ca97d14c68974cbb3824.zip",
+		"uuid" : "8f8df511-8b23-34ac-9e1f-c865cec25457",
+		"version" : "0.0.2"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "B931y1A70qXeIpV/++jpHhDtSpaatlAKW3N0ibh8Nj8=" ],
+		"path" : "resource_packs/db6ad8c65f241cce63aff26f9211413ae065b215.zip",
+		"uuid" : "f39887c9-1fac-47b9-90d4-3cb064cdc7cd",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "tnmJyiC0CCzAC24qaA20rYNMqyrjReoSKu/yKFaIUL0=" ],
+		"path" : "behavior_packs/5c37d1de801d6556f4434b9dd97c784c9ec5704a.zip",
+		"uuid" : "33ddca84-e2f6-4e9b-8af1-b4526fe41e72",
+		"version" : "5.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "iklzjQeZuxe5Dbnk3sPimTRm7F3OhB4Fib8SvIeQmB8=" ],
+		"path" : "resource_packs/ee7d0c63c934bf002456d52f54d3c299a36a3847.zip",
+		"uuid" : "b4cd5106-01b7-4127-a45d-5ab322120241",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/vanilla",
+		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"path" : "behavior_packs/chemistry",
+		"uuid" : "6baf8b62-8948-4c99-bb1e-a0cb35dc4579",
+		"version" : "1.0.0"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "wEfAOKt8k1SLbRuYQrpWVzOe8Wi3aTvF9hYBDJgZ1DM=" ],
+		"path" : "behavior_packs/4e499eee01b0884b1975e081540c7869599e01c0.zip",
+		"uuid" : "9968c3ce-8d1b-49e0-8f12-1889f20bc256",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "0KE1mr3I5V7x1yq1nn8u2xEyDb+/2v7C4QSNRkooN3c=" ],
+		"path" : "behavior_packs/0170304990cdb9906262639b599ba1f5e1173189.zip",
+		"uuid" : "80a72efe-3866-3690-8f4d-7fc810ebb780",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "Yl24v5ME8cmhRY6WSLr2qUk2c4Xbf2aiQVmXG5jVQUs=" ],
+		"path" : "behavior_packs/3a73ccb6eb481e2de9ffd98e554bcfc873e5bd99.zip",
+		"uuid" : "8ab67b2a-8c76-4f90-9119-fd0f7b3ebe27",
+		"version" : "0.0.1"
+	},
+	
+	{
+		"file_system" : "RawPath",
+		"from_disk" : true,
+		"hashes" : [ "xPLcrd+cMC5daia4S6j+wikQHYF+wpSqv6UBuBrsysY=" ],
+		"path" : "behavior_packs/ac7d7f28dfebb5e7e4211303b97c019cca330e32.zip",
+		"uuid" : "26aff42f-fa85-41db-be6b-4f2003eae098",
+		"version" : "0.0.2"
+	}
+]
